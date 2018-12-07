@@ -13,7 +13,7 @@ export default View.extend({
   },
   
   ui: {
-    'btn': 'button'
+    btn: 'button'
   },
 
   events: {
